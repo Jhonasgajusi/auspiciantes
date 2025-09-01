@@ -2,11 +2,11 @@
   {
     "nombre": "Dyg impresiones 3D",
     "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/DYG.jpg?raw=true",
-    "linkUrl": "https://www.instagram.com/dyg.impresiones3d/" // Opcional, si quieres que al tocar se abra un link
+    "linkUrl": "https://www.instagram.com/dyg.impresiones3d/" 
   },
   {
     "nombre": "Import DYL shop",
-    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/DYL.jpg?raw=true", // Si la imagen está en tus assets y solo quieres controlar si aparece
+    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/DYL.jpg?raw=true", 
     "linkUrl": "https://www.instagram.com/import.dyl.shop/"
   },
   {
