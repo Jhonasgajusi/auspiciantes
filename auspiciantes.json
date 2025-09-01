@@ -1,0 +1,16 @@
+  [
+  {
+    "nombre": "Nombre Auspiciante Alfa",
+    "imagenUrl": "https://url_completa_de_la_imagen_del_auspiciante_alfa.jpg",
+    "linkUrl": "https://url_del_sitio_web_del_auspiciante_alfa.com" // Opcional, si quieres que al tocar se abra un link
+  },
+  {
+    "nombre": "Auspiciante Beta con Logo Local",
+    "imagenAsset": "ausp_beta_logo.png", // Si la imagen está en tus assets y solo quieres controlar si aparece
+    "linkUrl": null
+  },
+  {
+    "nombre": "Otro Auspiciante",
+    "imagenUrl": "https://url_de_otra_imagen.png"
+  }
+]
