@@ -1,4 +1,4 @@
-  [
+[
   {
     "nombre": "Dyg impresiones 3D",
     "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/DYG.jpg?raw=true",
@@ -11,17 +11,17 @@
   },
   {
     "nombre": "Don Fritz",
-    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/Donfritz.jpg?raw=true"
+    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/Donfritz.jpg?raw=true",
     "linkUrl": "https://www.instagram.com/don.fritz_/"
   },
   {
     "nombre": "Sofi Diaz",
-    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/silvi.jpg?raw=true"
+    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/silvi.jpg?raw=true",
     "linkUrl": "https://www.instagram.com/sofidiaz_bl/"
   },
   {
     "nombre": "Tere Blanqueria",
-    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/tere.jpg?raw=true"
+    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/tere.jpg?raw=true",
     "linkUrl": "https://www.instagram.com/tereblanqueria/"
   }
 ]
