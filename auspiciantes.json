@@ -1,16 +1,27 @@
   [
   {
-    "nombre": "Nombre Auspiciante Alfa",
-    "imagenUrl": "https://url_completa_de_la_imagen_del_auspiciante_alfa.jpg",
-    "linkUrl": "https://url_del_sitio_web_del_auspiciante_alfa.com" // Opcional, si quieres que al tocar se abra un link
+    "nombre": "Dyg impresiones 3D",
+    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/DYG.jpg?raw=true",
+    "linkUrl": "https://www.instagram.com/dyg.impresiones3d/" // Opcional, si quieres que al tocar se abra un link
   },
   {
-    "nombre": "Auspiciante Beta con Logo Local",
-    "imagenAsset": "ausp_beta_logo.png", // Si la imagen está en tus assets y solo quieres controlar si aparece
-    "linkUrl": null
+    "nombre": "Import DYL shop",
+    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/DYL.jpg?raw=true", // Si la imagen está en tus assets y solo quieres controlar si aparece
+    "linkUrl": "https://www.instagram.com/import.dyl.shop/"
   },
   {
-    "nombre": "Otro Auspiciante",
-    "imagenUrl": "https://url_de_otra_imagen.png"
+    "nombre": "Don Fritz",
+    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/Donfritz.jpg?raw=true"
+    "linkUrl": "https://www.instagram.com/don.fritz_/"
+  },
+  {
+    "nombre": "Sofi Diaz",
+    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/silvi.jpg?raw=true"
+    "linkUrl": "https://www.instagram.com/sofidiaz_bl/"
+  },
+  {
+    "nombre": "Tere Blanqueria",
+    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/tere.jpg?raw=true"
+    "linkUrl": "https://www.instagram.com/tereblanqueria/"
   }
 ]
