@@ -10,9 +10,9 @@
     "linkUrl": "https://www.instagram.com/import.dyl.shop/"
   },
   {
-    "nombre": "Don Fritz",
+    "nombre": "Leitos Pizza",
     "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/Donfritz.jpg?raw=true",
-    "linkUrl": "https://www.instagram.com/don.fritz_/"
+    "linkUrl": "https://www.instagram.com/leito.pizza/"
   },
   {
     "nombre": "Sofi Diaz",
@@ -23,5 +23,10 @@
     "nombre": "Tere Blanqueria",
     "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/tere.jpg?raw=true",
     "linkUrl": "https://www.instagram.com/tereblanqueria/"
+  },
+  {
+    "nombre": "China Deco",
+    "imagenUrl": "https://github.com/Jhonasgajusi/auspiciantes/blob/main/images/tere.jpg?raw=true",
+    "linkUrl": "https://www.instagram.com/china.decoparty/"
   }
 ]
